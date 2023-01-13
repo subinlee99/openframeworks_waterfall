@@ -1,6 +1,5 @@
 # Waterfall
-
-서강대학교 컴퓨터 공학 설계 실험 1 (CSE3013) maze
+#서강대학교 컴퓨터 공학 설계 실험 1 (CSE3013) waterfall**
 
 <img width="626" alt="image" src="https://user-images.githubusercontent.com/72432673/212212260-929929da-7c1a-4620-8f7f-880bed4ca5a7.png">
 
